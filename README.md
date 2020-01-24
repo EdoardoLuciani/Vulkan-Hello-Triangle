@@ -11,7 +11,7 @@ The external libraries used are
 - OpenGL-Mathematics (GLM): for constructing the glm::rotate matrix - https://github.com/g-truc/glm
 
 ## Files
-- Vulkan Tutorial.cpp: file containing the VulkanTriangle class and program entrypoint
+- Vulkan Triangle.cpp: file containing the VulkanTriangle class and program entrypoint
 - vulkan_helper.cpp: functions used to abstract some logic boilerplate code
 - Shaders: source code for shaders, need to be compiled to SPIR-V with glslLangValidator.exe before execution
 
