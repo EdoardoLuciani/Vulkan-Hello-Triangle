@@ -2,6 +2,8 @@
 
 Simple Hello Triangle program written using the Vulkan API. It draws a rotating triangle using per-vertex colors with a uniform buffer update per frame. The code illustrates the basics of rendering with Vulkan, but can be served as a base for other purposes. The only Windows specific function used is vkCreateWin32Surface().
 
+![alt text](https://github.com/EdoardoLuciani/Vulkan-Hello-Triangle/blob/master/Result.PNG)
+
 ## Dependencies
 The external libraries used are
 - volk: to dynamically load entrypoints - https://github.com/zeux/volk
